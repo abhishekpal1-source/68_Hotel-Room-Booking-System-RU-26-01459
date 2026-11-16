@@ -1,0 +1,12 @@
+[
+    {
+        "guest_name": "name",
+        "room_number": 101,
+        "nights": 1
+    },
+    {
+        "guest_name": "ankit",
+        "room_number": 102,
+        "nights": 2
+    }
+]
